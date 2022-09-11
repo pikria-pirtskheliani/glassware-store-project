@@ -1,0 +1,18 @@
+@media (max-width:1115px) {
+    .toggle-menu {
+        display: block;
+    }
+    .nav-ul {
+        display: none;
+    }
+    .fa-bag-shopping {
+        display: none;
+    }
+    .nav-li {
+        line-height: 10px;
+        font-size: 30px; 
+        margin-top: 30px;
+        color: black;
+        background-color: white;
+    }
+}
